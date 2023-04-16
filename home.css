@@ -57,7 +57,11 @@
   margin-right: var(--dl-space-space-tripleunit);
   text-decoration: none;
 }
-.home-link1 {
+.home-link01 {
+  margin-right: var(--dl-space-space-tripleunit);
+  text-decoration: none;
+}
+.home-link02 {
   margin-right: var(--dl-space-space-tripleunit);
   text-decoration: none;
 }
@@ -111,19 +115,19 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.home-link2 {
+.home-link03 {
   margin-bottom: var(--dl-space-space-unit);
   text-decoration: none;
 }
-.home-link3 {
+.home-link04 {
   margin-bottom: var(--dl-space-space-unit);
   text-decoration: none;
 }
-.home-link4 {
+.home-link05 {
   margin-bottom: var(--dl-space-space-unit);
   text-decoration: none;
 }
-.home-link5 {
+.home-link06 {
   text-decoration: none;
 }
 .home-hero {

@@ -61,6 +61,10 @@
   margin-right: var(--dl-space-space-tripleunit);
   text-decoration: none;
 }
+.project-link2 {
+  margin-right: var(--dl-space-space-tripleunit);
+  text-decoration: none;
+}
 .project-right-side {
   border: 2px dashed rgba(120, 120, 120, 0.4);
   display: flex;
@@ -111,10 +115,6 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.project-link2 {
-  margin-bottom: var(--dl-space-space-unit);
-  text-decoration: none;
-}
 .project-link3 {
   margin-bottom: var(--dl-space-space-unit);
   text-decoration: none;
@@ -124,6 +124,10 @@
   text-decoration: none;
 }
 .project-link5 {
+  margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.project-link6 {
   text-decoration: none;
 }
 .project-hero {
